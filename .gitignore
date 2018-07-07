@@ -1,0 +1,7 @@
+**.js.map
+pomelo/**/*.js
+pomelo-admin/**/*.js
+pomelo-loader/**/*.js
+pomelo-protobuf/**/*.js
+pomelo-protocol/**/*.js
+pomelo-scheduler/**/*.js

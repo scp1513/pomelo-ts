@@ -1,0 +1,68 @@
+{
+  "_from": "@types/restify",
+  "_id": "@types/restify@7.2.2",
+  "_inBundle": false,
+  "_integrity": "sha1-yIwzTG6Y1cqpDIURgbPWBtq8DKg=",
+  "_location": "/@types/restify",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/restify",
+    "name": "@types/restify",
+    "escapedName": "@types%2frestify",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/@types/restify/download/@types/restify-7.2.2.tgz",
+  "_shasum": "c88c334c6e98d5caa90c851181b3d606dabc0ca8",
+  "_spec": "@types/restify",
+  "_where": "D:\\Projects\\lordofpomelo\\game-server\\node_modules",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Bret Little",
+      "url": "https://github.com/blittle"
+    },
+    {
+      "name": "Steve Hipwell",
+      "url": "https://github.com/stevehipwell"
+    },
+    {
+      "name": "Leandro Almeida",
+      "url": "https://github.com/leanazulyoro"
+    },
+    {
+      "name": "Mitchell Bundy",
+      "url": "https://github.com/mgebundy"
+    }
+  ],
+  "dependencies": {
+    "@types/bunyan": "*",
+    "@types/node": "*",
+    "@types/spdy": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for restify",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/restify",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.2",
+  "typesPublisherContentHash": "071ce13d41474e7f2d0d74c2ca043f86b39f0a686833f2365aaf34b8d30b339c",
+  "version": "7.2.2"
+}

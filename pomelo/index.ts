@@ -1,0 +1,1 @@
+export = require('./lib/pomelo')

@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": false,
+        "preserveConstEnums": false,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitReturns": true,
+        "noUnusedParameters": false,
+        "noUnusedLocals": true,
+        "noImplicitThis": true,
+        "strictNullChecks": false,
+        "sourceMap": true,
+        "target": "es5",
+        "newLine": "LF"
+    },
+    "sourceMaps": true,
+    "exclude": [
+        
+    ]
+}
