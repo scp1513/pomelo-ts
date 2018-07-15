@@ -1,68 +1,51 @@
 {
-  "_from": "@types/restify",
-  "_id": "@types/restify@7.2.2",
+  "_from": "@types/restify@^2.0.36",
+  "_id": "@types/restify@2.0.42",
   "_inBundle": false,
-  "_integrity": "sha1-yIwzTG6Y1cqpDIURgbPWBtq8DKg=",
+  "_integrity": "sha1-ZZI3bcIwxFr8/9T57nvM0ndrHho=",
   "_location": "/@types/restify",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "range",
     "registry": true,
-    "raw": "@types/restify",
+    "raw": "@types/restify@^2.0.36",
     "name": "@types/restify",
     "escapedName": "@types%2frestify",
     "scope": "@types",
-    "rawSpec": "",
+    "rawSpec": "^2.0.36",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "^2.0.36"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "http://registry.npm.taobao.org/@types/restify/download/@types/restify-7.2.2.tgz",
-  "_shasum": "c88c334c6e98d5caa90c851181b3d606dabc0ca8",
-  "_spec": "@types/restify",
-  "_where": "D:\\Projects\\lordofpomelo\\game-server\\node_modules",
-  "bugs": {
-    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
-  },
+  "_resolved": "http://registry.npm.taobao.org/@types/restify/download/@types/restify-2.0.42.tgz",
+  "_shasum": "6592376dc230c45afcffd4f9ee7bccd2776b1e1a",
+  "_spec": "@types/restify@^2.0.36",
+  "_where": "d:\\Projects\\bekemon\\server\\game-server",
   "bundleDependencies": false,
   "contributors": [
     {
       "name": "Bret Little",
       "url": "https://github.com/blittle"
-    },
-    {
-      "name": "Steve Hipwell",
-      "url": "https://github.com/stevehipwell"
-    },
-    {
-      "name": "Leandro Almeida",
-      "url": "https://github.com/leanazulyoro"
-    },
-    {
-      "name": "Mitchell Bundy",
-      "url": "https://github.com/mgebundy"
     }
   ],
   "dependencies": {
     "@types/bunyan": "*",
-    "@types/node": "*",
-    "@types/spdy": "*"
+    "@types/node": "*"
   },
   "deprecated": false,
-  "description": "TypeScript definitions for restify",
-  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "description": "TypeScript definitions for node.js REST framework",
   "license": "MIT",
   "main": "",
   "name": "@types/restify",
+  "peerDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
   },
   "scripts": {},
-  "typeScriptVersion": "2.2",
-  "typesPublisherContentHash": "071ce13d41474e7f2d0d74c2ca043f86b39f0a686833f2365aaf34b8d30b339c",
-  "version": "7.2.2"
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "c0b368bdac9007232d3e4d4431731a73c2280081f1535edaf33fca961dec2755",
+  "version": "2.0.42"
 }

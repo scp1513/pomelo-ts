@@ -2,15 +2,15 @@
 > `npm install --save @types/ws`
 
 # Summary
-This package contains type definitions for ws (https://github.com/websockets/ws).
+This package contains type definitions for ws (https://github.com/einaros/ws).
 
 # Details
-Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ws
+Files were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/ws
 
 Additional Details
- * Last updated: Thu, 07 Jun 2018 19:55:42 GMT
+ * Last updated: Mon, 23 Jan 2017 02:32:30 GMT
  * Dependencies: events, http, https, net, node
  * Global values: none
 
 # Credits
-These definitions were written by Paul Loyd <https://github.com/loyd>, Matt Silverlock <https://github.com/elithrar>, Margus Lamp <https://github.com/mlamp>, Philippe D'Alva <https://github.com/TitaneBoy>, Orblazer <https://github.com/orblazer>.
+These definitions were written by Paul Loyd <https://github.com/loyd>.

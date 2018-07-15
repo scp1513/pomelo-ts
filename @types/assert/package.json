@@ -1,0 +1,46 @@
+{
+  "_from": "@types/assert@*",
+  "_id": "@types/assert@0.0.31",
+  "_inBundle": false,
+  "_integrity": "sha1-0fcFlactAlVbfs0o60xo8baRjW0=",
+  "_location": "/@types/assert",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/assert@*",
+    "name": "@types/assert",
+    "escapedName": "@types%2fassert",
+    "scope": "@types",
+    "rawSpec": "*",
+    "saveSpec": null,
+    "fetchSpec": "*"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/@types/assert/download/@types/assert-0.0.31.tgz",
+  "_shasum": "d1f70595a72d02555b7ecd28eb4c68f1b6918d6d",
+  "_spec": "@types/assert@*",
+  "_where": "d:\\Projects\\bekemon\\server\\game-server",
+  "author": {
+    "name": "vvakame",
+    "email": "https://github.com/vvakame"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": "See https://github.com/DefinitelyTyped/DefinitelyTyped/issues/12826",
+  "description": "TypeScript definitions for assert and power-assert",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/assert",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "759710078193010b99dc99e7ba8a100e251198a9098988d5579808a57a8fc7c5",
+  "typings": "index.d.ts",
+  "version": "0.0.31"
+}

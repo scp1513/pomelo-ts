@@ -1,32 +1,28 @@
 {
-  "_from": "@types/request",
-  "_id": "@types/request@2.47.1",
+  "_from": "@types/request@0.0.45",
+  "_id": "@types/request@0.0.45",
   "_inBundle": false,
-  "_integrity": "sha1-JUENOvvawEyRqUrZ78mCQQBzWCQ=",
+  "_integrity": "sha1-xuUr6LEI6wNcNaqa9Wo4omDD5+Y=",
   "_location": "/@types/request",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "@types/request",
+    "raw": "@types/request@0.0.45",
     "name": "@types/request",
     "escapedName": "@types%2frequest",
     "scope": "@types",
-    "rawSpec": "",
+    "rawSpec": "0.0.45",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "0.0.45"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "http://registry.npm.taobao.org/@types/request/download/@types/request-2.47.1.tgz",
-  "_shasum": "25410d3afbdac04c91a94ad9efc9824100735824",
-  "_spec": "@types/request",
-  "_where": "D:\\Projects\\lordofpomelo\\game-server\\node_modules",
-  "bugs": {
-    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
-  },
+  "_resolved": "http://registry.npm.taobao.org/@types/request/download/@types/request-0.0.45.tgz",
+  "_shasum": "c6e52be8b108eb035c35aa9af56a38a260c3e7e6",
+  "_spec": "@types/request@0.0.45",
+  "_where": "d:\\Projects\\bekemon\\server\\game-server",
   "bundleDependencies": false,
   "contributors": [
     {
@@ -43,43 +39,29 @@
     },
     {
       "name": "Joe Skeen",
-      "url": "https://github.com/joeskeen"
+      "url": "http://github.com/joeskeen"
     },
     {
       "name": "Christopher Currens",
       "url": "https://github.com/ccurrens"
-    },
-    {
-      "name": "Jon Stevens",
-      "url": "https://github.com/lookfirst"
-    },
-    {
-      "name": "Matt R. Wilson",
-      "url": "https://github.com/mastermatt"
-    },
-    {
-      "name": "Jose Colella",
-      "url": "https://github.com/josecolella"
     }
   ],
   "dependencies": {
-    "@types/caseless": "*",
     "@types/form-data": "*",
-    "@types/node": "*",
-    "@types/tough-cookie": "*"
+    "@types/node": "*"
   },
   "deprecated": false,
   "description": "TypeScript definitions for request",
-  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
   "license": "MIT",
   "main": "",
   "name": "@types/request",
+  "peerDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
   },
   "scripts": {},
-  "typeScriptVersion": "2.3",
-  "typesPublisherContentHash": "5b1574ed6feec1a1a58d64c2fd2eddab01d7594c6209159ef0ac92ed906e67b9",
-  "version": "2.47.1"
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "32e1fc0fd28135b9813d4ed379aabeec2e8a93c1a165770cd5a39366be931074",
+  "version": "0.0.45"
 }

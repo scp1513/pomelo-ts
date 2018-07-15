@@ -17,12 +17,12 @@
     "fetchSpec": "*"
   },
   "_requiredBy": [
-    "/@types/ws"
+    "/@types/bunyan"
   ],
   "_resolved": "http://registry.npm.taobao.org/@types/events/download/@types/events-1.2.0.tgz",
   "_shasum": "81a6731ce4df43619e5c8c945383b3e62a89ea86",
   "_spec": "@types/events@*",
-  "_where": "D:\\Projects\\lordofpomelo\\game-server\\node_modules\\@types\\ws",
+  "_where": "d:\\Projects\\bekemon\\server\\game-server\\node_modules\\@types\\bunyan",
   "bundleDependencies": false,
   "contributors": [
     {

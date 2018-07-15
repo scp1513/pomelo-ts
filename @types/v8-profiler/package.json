@@ -1,0 +1,48 @@
+{
+  "_from": "@types/v8-profiler@0.0.5",
+  "_id": "@types/v8-profiler@0.0.5",
+  "_inBundle": false,
+  "_integrity": "sha1-K58Le6MpT1sXe2Z5Bgd3KRChlfk=",
+  "_location": "/@types/v8-profiler",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@types/v8-profiler@0.0.5",
+    "name": "@types/v8-profiler",
+    "escapedName": "@types%2fv8-profiler",
+    "scope": "@types",
+    "rawSpec": "0.0.5",
+    "saveSpec": null,
+    "fetchSpec": "0.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/@types/v8-profiler/download/@types/v8-profiler-0.0.5.tgz",
+  "_shasum": "2b9f0b7ba3294f5b177b66790607772910a195f9",
+  "_spec": "@types/v8-profiler@0.0.5",
+  "_where": "d:\\Projects\\bekemon\\server\\game-server",
+  "author": {
+    "name": "York Yao",
+    "email": "https://github.com/plantain-00/"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for v8-profiler",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/v8-profiler",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "90decb2665c372bd5b1a5fb8b6c361bd67fdae6e341f413730261c45f47293a5",
+  "typings": "index.d.ts",
+  "version": "0.0.5"
+}

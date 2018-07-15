@@ -1,29 +1,28 @@
 {
-  "_from": "@types/async",
+  "_from": "@types/async@^2.0.37",
   "_id": "@types/async@2.0.49",
   "_inBundle": false,
   "_integrity": "sha1-kuM9E/dMiVy5p/OLqX24Qx7RS8A=",
   "_location": "/@types/async",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "range",
     "registry": true,
-    "raw": "@types/async",
+    "raw": "@types/async@^2.0.37",
     "name": "@types/async",
     "escapedName": "@types%2fasync",
     "scope": "@types",
-    "rawSpec": "",
+    "rawSpec": "^2.0.37",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "^2.0.37"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "http://registry.npm.taobao.org/@types/async/download/@types/async-2.0.49.tgz",
   "_shasum": "92e33d13f74c895cb9a7f38ba97db8431ed14bc0",
-  "_spec": "@types/async",
-  "_where": "D:\\Projects\\lordofpomelo\\game-server\\node_modules",
+  "_spec": "@types/async@^2.0.37",
+  "_where": "d:\\Projects\\bekemon\\server\\game-server",
   "bundleDependencies": false,
   "contributors": [
     {

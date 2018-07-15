@@ -22,7 +22,7 @@
   "_resolved": "http://registry.npm.taobao.org/@types/form-data/download/@types/form-data-2.2.1.tgz",
   "_shasum": "ee2b3b8eaa11c0938289953606b745b738c54b1e",
   "_spec": "@types/form-data@*",
-  "_where": "D:\\Projects\\lordofpomelo\\game-server\\node_modules\\@types\\request",
+  "_where": "d:\\Projects\\bekemon\\server\\game-server\\node_modules\\@types\\request",
   "bundleDependencies": false,
   "contributors": [
     {

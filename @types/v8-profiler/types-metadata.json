@@ -1,0 +1,27 @@
+{
+    "authors": "York Yao <https://github.com/plantain-00/>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [
+        "node"
+    ],
+    "moduleDependencies": [
+        "fs"
+    ],
+    "libraryMajorVersion": 0,
+    "libraryMinorVersion": 0,
+    "libraryName": "v8-profiler",
+    "typingsPackageName": "v8-profiler",
+    "projectName": "https://github.com/node-inspector/v8-profiler",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "ModuleAugmentation",
+    "globals": [],
+    "declaredModules": [
+        "v8-profiler"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "90decb2665c372bd5b1a5fb8b6c361bd67fdae6e341f413730261c45f47293a5"
+}

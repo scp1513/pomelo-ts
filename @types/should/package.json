@@ -1,0 +1,47 @@
+{
+  "_from": "@types/should@*",
+  "_id": "@types/should@13.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-lsABF/GJYXeEj97PozYxPCMMh54=",
+  "_location": "/@types/should",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/should@*",
+    "name": "@types/should",
+    "escapedName": "@types%2fshould",
+    "scope": "@types",
+    "rawSpec": "*",
+    "saveSpec": null,
+    "fetchSpec": "*"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/@types/should/download/@types/should-13.0.0.tgz",
+  "_shasum": "96c00117f1896177848fdecfa336313c230c879e",
+  "_spec": "@types/should@*",
+  "_where": "d:\\Projects\\bekemon\\server\\game-server",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/shouldjs/should.js/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "should": "*"
+  },
+  "deprecated": "This is a stub types definition for should.js (https://github.com/shouldjs/should.js). should.js provides its own type definitions, so you don't need @types/should installed!",
+  "description": "Stub TypeScript definitions entry for should.js, which provides its own types definitions",
+  "homepage": "https://github.com/shouldjs/should.js#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/should",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shouldjs/should.js.git"
+  },
+  "scripts": {},
+  "typings": null,
+  "version": "13.0.0"
+}

@@ -1,0 +1,48 @@
+{
+  "_from": "@types/random-js@^1.0.30",
+  "_id": "@types/random-js@1.0.30",
+  "_inBundle": false,
+  "_integrity": "sha1-M/1Xrk/b3BrtP3aodb0dpalCiAg=",
+  "_location": "/@types/random-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/random-js@^1.0.30",
+    "name": "@types/random-js",
+    "escapedName": "@types%2frandom-js",
+    "scope": "@types",
+    "rawSpec": "^1.0.30",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.30"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/@types/random-js/download/@types/random-js-1.0.30.tgz",
+  "_shasum": "33fd57ae4fdbdc1aed3f76a875bd1da5a9428808",
+  "_spec": "@types/random-js@^1.0.30",
+  "_where": "d:\\Projects\\bekemon\\server\\game-server",
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Gustavo Di Pietro",
+      "url": "https://github.com/pistacchio"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for random-js",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/random-js",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "3635e523e4714e5ebe7d37a19e29365efed8a9af86fa84e9f7f2c07c1ed835c0",
+  "version": "1.0.30"
+}
